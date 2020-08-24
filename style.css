@@ -1,0 +1,109 @@
+body {
+
+    margin:0px;
+}
+
+mark {
+
+    background-color: rgb(11,237,163);
+    color: black;
+}
+header {
+
+    background-color: rgb(116,81,235);
+    color : white;
+    width: 1500px;
+    height: 400px;
+    margin-top:-20px;
+    position: relative;
+}
+
+ #nom {
+    padding-left: 300px;
+    padding-top: 30px;
+   
+    font-size: larger;
+     
+}
+
+ #metier {
+
+    padding-left: 310px;
+    margin-top: -20px;
+    color : black;
+}
+
+#presentation {
+
+    font-size: larger;
+    padding-left: 290px;
+}
+#silhouette {
+
+   margin-right:0px;
+margin-top:-440px; 
+margin-left: 300px;
+}
+
+#competence {
+
+    text-align: justify;
+    width: 400px;
+    margin-left: 750px;
+    margin-top: 100px;
+    color:black;
+    font-size: 18px;
+    
+}
+
+#dev {
+
+    display: flex;
+    justify-content: left;
+    flex: 1px;
+   margin-top: -500px;
+   margin-left: 170px;
+   
+}
+#contact {
+
+    margin-left: 180px;
+    margin-top: 50px;
+   
+   
+ 
+}
+
+#logo {
+
+    margin-left: 180px; 
+
+}
+
+a {
+
+    margin-left : 5px;
+
+}
+
+#projet {
+
+    margin-top: -15px;
+    margin-bottom: 40px;
+}
+
+.mail {
+
+    color: white;
+    margin-bottom: 50px;
+}
+footer {
+
+    background-color: rgb(0,54,104);
+    color: white;
+    width: 1500px;
+    height: 400px;
+    margin-top : 50px;
+    position: absolute;
+    font-size: 18px;
+}
