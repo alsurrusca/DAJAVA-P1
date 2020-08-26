@@ -25,6 +25,7 @@ header {
 }
 
  #nom {
+     
     display: flex;
     flex-flow: row wrap;
     margin-left: 20%;
@@ -64,6 +65,7 @@ header {
 }
 
 #dev {
+    
     position: absolute;
     top: 30em;
     left: 5%;
